@@ -201,7 +201,7 @@ header {
 
 .intro {
   background: rgba(0, 0, 0, 0.8)
-    url("/assets/img/welcome-screen/bg-to-welcome.jpg") no-repeat;
+    url("assets/img/welcome-screen/bg-to-welcome.jpg") no-repeat;
   background-size: cover;
   background-position: center;
   background-blend-mode: multiply;
@@ -792,7 +792,7 @@ form input {
 }
 
 .footer__text--container {
-  background: rgba(0, 0, 0, 0.5) url("/assets/img/footer/road.png");
+  background: rgba(0, 0, 0, 0.5) url("assets/img/footer/road.png");
   height: 80%;
   text-align: center;
   background-blend-mode: multiply;
